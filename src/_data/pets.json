@@ -33,5 +33,15 @@
     "name": "Mabel",
     "photo": "mabel.jpg",
     "owner": "Ethan"
+  },
+  {
+    "name": "Buzz",
+    "photo": "buzz.jpg",
+    "owner": "Gemma"
+  },
+  {
+    "name": "Casper",
+    "photo": "casper.jpg",
+    "owner": "Gemma"
   }
 ]
