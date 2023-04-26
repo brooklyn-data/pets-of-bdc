@@ -45,6 +45,31 @@
     "owner": "Gemma"
   },
   {
+    "name": "Betty",
+    "photo": "betty.jpg",
+    "owner": "Amy"
+  },
+  {
+    "name": "Ella",
+    "photo": "ella.jpg",
+    "owner": "Amy"
+  },
+  {
+    "name": "Esther",
+    "photo": "esther.jpg",
+    "owner": "Amy"
+  },
+  {
+    "name": "Smidge",
+    "photo": "smidge.jpg",
+    "owner": "Amy"
+  },
+  {
+    "name": "Malpy",
+    "photo": "malpy.jpg",
+    "owner": "Amy"
+  },
+  {
     "name": "Bunny",
     "photo": "bunny.jpg",
     "owner": "Kelli"
