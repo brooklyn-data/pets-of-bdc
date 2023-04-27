@@ -78,5 +78,15 @@
     "name": "Juni",
     "photo": "Juni.png",
     "owner": "Richard"
+  }, 
+  {
+    "name": "Tilly Jane",
+    "photo": "tilly_jane.png",
+    "owner": "Kelly"
+  },
+  {
+    "name": "Elroy (aka Yell-Roy)",
+    "photo": "elroy.png",
+    "owner": "Kelly"
   }
 ]
