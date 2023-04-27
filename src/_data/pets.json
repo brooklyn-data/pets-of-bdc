@@ -73,5 +73,10 @@
     "name": "Bunny",
     "photo": "bunny.jpg",
     "owner": "Kelli"
+  }, 
+  {
+    "name": "Juni",
+    "photo": "Juni.png",
+    "owner": "Richard"
   }
 ]
