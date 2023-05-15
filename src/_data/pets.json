@@ -88,5 +88,10 @@
     "name": "Elroy (aka Yell-Roy)",
     "photo": "elroy.jpg",
     "owner": "Kelly"
+  },
+  {
+    "name": "Bodie",
+    "photo": "bodie.jpeg",
+    "owner": "Zerlina"
   }
 ]
