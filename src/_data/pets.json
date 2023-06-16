@@ -98,5 +98,10 @@
     "name": "Macaroni",
     "photo": "macaroni.jpg",
     "owner": "Adrian"
+  },
+  {
+    "name": "Nathan",
+    "photo": "nathan.jpg",
+    "owner": "Liz"
   }
 ]
