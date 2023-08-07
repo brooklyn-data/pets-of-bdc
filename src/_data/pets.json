@@ -113,5 +113,15 @@
     "name": "mel",
     "photo": "mel.jpg",
     "owner": "Pedro"
+  },
+  {
+    "name": "Misha",
+    "photo": "misha.jpg",
+    "owner": "Dani"
+  },
+  {
+    "name": "Vincenzo",
+    "photo": "vincenzo.png",
+    "owner": "Dani"
   }
 ]
