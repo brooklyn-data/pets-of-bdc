@@ -103,5 +103,15 @@
     "name": "Nathan",
     "photo": "nathan.jpg",
     "owner": "Liz"
+  },
+  {
+    "name": "Bené",
+    "photo": "bené.jpg",
+    "owner": "Pedro"
+  },
+  {
+    "name": "mel",
+    "photo": "mel.jpg",
+    "owner": "Pedro"
   }
 ]
