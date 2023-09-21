@@ -123,5 +123,10 @@
     "name": "Vincenzo",
     "photo": "vincenzo.png",
     "owner": "Dani"
+  },
+  {
+    "name": "Ensign (Sylvia) Tilly",
+    "photo": "tilly.jpg",
+    "owner": "Forrest"
   }
 ]
