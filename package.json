@@ -1,7 +1,7 @@
 {
     "name": "pets-of-bdc",
     "version": "1.0.0",
-    "description": "This is a place where the BDC team posts pictures of their pets.",
+    "description": "This is a place where the Velir and BDC teams post pictures of their pets.",
     "dependencies": {
         "@11ty/eleventy": "^1.0.0-beta.8",
         "clean-css": "^4.2.3"
