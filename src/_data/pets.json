@@ -73,12 +73,12 @@
     "name": "Bunny",
     "photo": "bunny.jpg",
     "owner": "Kelli"
-  }, 
+  },
   {
     "name": "Juni",
     "photo": "Juni.png",
     "owner": "Richard"
-  }, 
+  },
   {
     "name": "Tilly Jane",
     "photo": "tilly_jane.jpg",
@@ -128,5 +128,10 @@
     "name": "Ensign (Sylvia) Tilly",
     "photo": "tilly.jpg",
     "owner": "Forrest"
+  },
+  {
+    "name": "Zoya",
+    "photo": "zoya.png",
+    "owner": "Lance"
   }
 ]
