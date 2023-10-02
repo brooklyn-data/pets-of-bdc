@@ -1,6 +1,6 @@
-# Pets of BDC
+# Pets of Velir including BDC (a Velir Company)
 
-This is a place where the BDC team posts pictures of their pets.
+This is a place where the BDC and Velir teams post pictures of their pets.
 
 Want to meet our friends? Head to [petsofbdc.netlify.app](https://petsofbdc.netlify.app/)
 
@@ -8,9 +8,9 @@ Want to meet our friends? Head to [petsofbdc.netlify.app](https://petsofbdc.netl
 
 Forked from the OG: [petsofnetlify](https://github.com/netlify/petsofnetlify). We're grateful to them for the inspiration. 🐱🫶🐶
 
-## You are a BDCer but your pet is missing?
+## You are a BDCer or Velirian but your pet is missing?
 
-Well that won't do. If your little friend is missing from this site please submit a pull request. But this site is just for the pets of people working at BDC (and our beloved alumni) I'm afraid. To get your pet on here, you first have to _[join us](https://www.brooklyndata.co/careers)_
+Well that won't do. If your little friend is missing from this site please submit a pull request. But this site is just for the pets of people working at BDC or Velir (and our beloved alumni) I'm afraid. To get your pet on here, you first have to _[join us](https://www.brooklyndata.co/careers)_
 
 ## Contributing code or pets (!)
 
