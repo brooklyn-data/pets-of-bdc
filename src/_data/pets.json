@@ -133,5 +133,17 @@
     "name": "Zoya",
     "photo": "zoya.png",
     "owner": "Lance"
+  },
+  {
+    "name": "Ziti",
+    "photo": "ziti.png",
+    "owner": "Avishua"
+  },
+  {
+    "name": "Alfredo",
+    "photo": "alfredo.png",
+    "owner": "Avishua"
   }
+
+
 ]
